@@ -1,7 +1,7 @@
 # AquOculus
 A Cost-effective Advanced Metering Infrastructure for Urban Water Distribution Systems.
 
-This repository contains the ESP32 and Server application software relative to AquOculus first AMR prototype.
+This repository contains the ESP32 firmware and Notebook Server application software relative to AquOculus first AMR prototype.
 
 # Instructions for reproducibility
 - Prototype AquOculus AMR hardware
